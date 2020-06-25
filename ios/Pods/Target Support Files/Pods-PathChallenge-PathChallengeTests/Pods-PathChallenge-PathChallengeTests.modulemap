@@ -1,0 +1,6 @@
+module Pods_PathChallenge_PathChallengeTests {
+  umbrella header "Pods-PathChallenge-PathChallengeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
